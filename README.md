@@ -11,5 +11,6 @@ Pull updates to this package to a Unity project:
 Push changes to this package from a Unity project (pull first!):
     git subtree push --prefix=Assets/erossonUnityUtils https://github.com/erosson/unityUtils.git
 
-Preview push changes:
+If that fails, or to preview changes before pushing:
     git checkout `git subtree split --prefix=Assets/erossonUnityUtils`
+    git push https://github.com/erosson/unityUtils.git HEAD:master -f

@@ -12,7 +12,7 @@ Pull updates to this package to a Unity project:
 
 Push changes to this package from a Unity project (pull first!):
 
-    git subtree push --prefix=Assets/erossonUnityUtils https://github.com/erosson/unityUtils.git
+    git subtree push --prefix=Assets/erossonUnityUtils https://github.com/erosson/unityUtils.git master
 
 If that fails, or to preview changes before pushing:
 

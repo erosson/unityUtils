@@ -1,6 +1,6 @@
 unityUtils
 ==========
-erosson's commonly used Unity code.
+erosson's commonly used Unity code. See usage examples at https://github.com/erosson/testUnityUtils
 
 Add to a Unity project:
 
